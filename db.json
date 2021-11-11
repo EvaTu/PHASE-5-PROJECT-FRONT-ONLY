@@ -1,0 +1,54 @@
+{
+    "products" : [ 
+    {
+        "id": 1,
+        "name": "Oversized Printed T-shirt",
+        "type": "top",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcd%2Fe2%2Fcde24ebee7f132565e6f3633e257e77cac836618.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url[file:/product/main]",
+        "price": 17.99,
+        "color": "White",
+        "inventory": 23,
+        "description": "Oversized T-shirt in soft cotton jersey with a printed graphic design at front. Ribbed crew neck and gently dropped shoulders."
+    },
+    {
+        "id": 2,
+        "name": "Ribbed Crop Top",
+        "type": "top",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2Fbd%2Fe6bdb151e4a44bc30fc1c67deded444e93ed9a54.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "price": 12.99,
+        "color": "Black",
+        "inventory": 28,
+        "description": "Crop top in ribbed cotton jersey with a round neckline and long sleeves."
+    },
+    {
+        "id": 3,
+        "name": "Faux Fur Hooded Jacket",
+        "type": "jacket",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe8%2F6e%2Fe86e115bd8fe4b6bdd6a640c7557fa4d274b8d49.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "price": 49.99,
+        "color": "Black/white checked",
+        "inventory": 17,
+        "description": "Jacket in soft faux fur with a double-layered hood. Zipper at front, dropped shoulders, long sleeves, and diagonal welt front pockets. Covered elastic at cuffs and hem. Lined."
+    },
+    {
+        "id": 4,
+        "name": "Rib-knit Turtleneck Dress",
+        "type": "dress",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2F56%2F135688eee634d2bb45de6a64be989ebeb2a7b86d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "price": 49.99,
+        "color": "Sage green",
+        "inventory": 9,
+        "description": "Straight-cut, slightly relaxed-fit, knee-length dress in soft, rib-knit fabric with wool content. Turtleneck, gently dropped shoulders, and long sleeves. Fine-knit ribbing at cuffs and hem."
+    },
+    {
+        "id": 5,
+        "name": "Wide-leg Twill Pants",
+        "type": "pant",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2Fb9%2F35b95dffeb1cde0818a5d0b5126b29a9b721cd0a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "price": 17.99,
+        "color": "Green",
+        "inventory": 12,
+        "description": "Long, 5-pocket pants in stretch cotton twill. High waist, zip fly with button, and straight, wide legs."
+    }
+    ]
+}
